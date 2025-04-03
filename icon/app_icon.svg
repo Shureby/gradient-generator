@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="appGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#c5022f"/>
+            <stop offset="100%" stop-color="#8ef9e0"/>
+        </linearGradient>
+    </defs>
+    <rect x="28" y="28" width="200" height="200" rx="32" ry="32" fill="url(#appGradient)"/>
+    <path d="M78 128 L128 78 L178 128 L128 178 Z" fill="white" fill-opacity="0.15"/>
+</svg>
