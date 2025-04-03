@@ -28,7 +28,7 @@
 1. 克隆或下载此仓库
 
 ```bash
-git clone https://github.com/yourusername/GradientImgGenerator.git
+git clone https://github.com/Shureby/gradient-generator.git
 cd GradientImgGenerator
 ```
 
